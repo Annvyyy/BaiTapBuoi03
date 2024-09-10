@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using ThuVien;
+
+namespace ModuleDN
+{
+    public partial class ucThongTinSV : UserControl
+    {
+        SQLClass sql = new SQLClass();
+        string cnn;
+        public string Cnn
+        {
+            get { return cnn; }
+            set { cnn = value; }
+        }
+        
+        public ucThongTinSV()
+        {
+            InitializeComponent();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ucThongTinSV_Load(object sender, EventArgs e)
+        {
+            sql.CreateConnection(cnn);
+            string query = "SELECT MaSV, TenSV, NgaySinh, GioiTinh, MaLop, CMND FROM SinhVien WHERE MaSV = @MaSV";
+
+
+        }
+    }
+}

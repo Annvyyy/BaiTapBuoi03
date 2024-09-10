@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "2001216329_NguyenThuongAnVy_B3\GUI.csproj", "{D8E37B1F-9C78-48B6-BBF3-FABB4BB0E5A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleDN", "ModuleDN\ModuleDN.csproj", "{1774BAE0-01AD-4221-9BC8-30BDE4C3EBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuVien", "ThuVien\ThuVien.csproj", "{26404282-267F-4F6D-9C48-32F106C2F794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E37B1F-9C78-48B6-BBF3-FABB4BB0E5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E37B1F-9C78-48B6-BBF3-FABB4BB0E5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E37B1F-9C78-48B6-BBF3-FABB4BB0E5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E37B1F-9C78-48B6-BBF3-FABB4BB0E5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1774BAE0-01AD-4221-9BC8-30BDE4C3EBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1774BAE0-01AD-4221-9BC8-30BDE4C3EBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1774BAE0-01AD-4221-9BC8-30BDE4C3EBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1774BAE0-01AD-4221-9BC8-30BDE4C3EBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26404282-267F-4F6D-9C48-32F106C2F794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26404282-267F-4F6D-9C48-32F106C2F794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26404282-267F-4F6D-9C48-32F106C2F794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26404282-267F-4F6D-9C48-32F106C2F794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

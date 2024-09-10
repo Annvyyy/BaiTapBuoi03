@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ThuVien\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ThuVien\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ThuVien\obj\Debug\ThuVien.dll
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ThuVien\obj\Debug\ThuVien.pdb

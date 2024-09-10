@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Drawing;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using ThuVien;
+
+namespace ModuleDN
+{
+    public partial class ucDangNhap : UserControl
+    {
+        SQLClass sql = new SQLClass();
+        string cnn;
+
+        public string Cnn
+        {
+            get { return cnn; }
+            set { cnn = value; }
+        }
+        public int cnn 
+        { 
+            get;
+            set; 
+        }
+        public ucDangNhap()
+        {
+            InitializeComponent();
+            
+            this.btnDN.Click += btnDN_Click;
+        }
+
+        void btnDN_Click(object sender, EventArgs e)
+        {
+            sql.CreateConnection(cnn);
+            string tendn = txtTen.Text;
+            string matkhau = txtMK.Text;
+            string sqlQ = "select count(*) from NguoiDung where TenDN = '" + tendn + "' and MatKhau = '" + matkhau + "'";
+            int kq = (int)sql.ExecuteScalar(sqlQ);
+
+            if(kq == 1)
+            {
+                MessageBox.Show("Thanh Cong");
+            }
+            else
+            {
+                MessageBox.Show("Khong Thanh Cong");
+            }
+        }
+    }
+}

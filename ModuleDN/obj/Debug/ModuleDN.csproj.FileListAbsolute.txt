@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\bin\Debug\ModuleDN.dll
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\bin\Debug\ModuleDN.pdb
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.ucDangNhap.resources
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.ucThongTinSV.resources
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.dll
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.pdb
+E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\ModuleDN\obj\Debug\ModuleDN.csprojResolveAssemblyReference.cache
