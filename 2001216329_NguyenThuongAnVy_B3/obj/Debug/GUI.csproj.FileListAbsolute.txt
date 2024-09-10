@@ -8,3 +8,6 @@ E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\2001216329_NguyenThuongA
 E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\2001216329_NguyenThuongAnVy_B3\obj\Debug\GUI.csproj.GenerateResource.Cache
 E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\2001216329_NguyenThuongAnVy_B3\obj\Debug\_2001216329_NguyenThuongAnVy_B3.frm_b11.resources
 E:\LuuDuLieuSinhVien\0vy\2001216329_NguyenThuongAnVy_B3\2001216329_NguyenThuongAnVy_B3\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\0vy\BaiTapBuoi03\2001216329_NguyenThuongAnVy_B3\bin\Debug\2001216329_NguyenThuongAnVy_B3.exe.config
+E:\LuuDuLieuSinhVien\0vy\BaiTapBuoi03\2001216329_NguyenThuongAnVy_B3\obj\Debug\2001216329_NguyenThuongAnVy_B3.exe
+E:\LuuDuLieuSinhVien\0vy\BaiTapBuoi03\2001216329_NguyenThuongAnVy_B3\obj\Debug\2001216329_NguyenThuongAnVy_B3.pdb
